@@ -18,7 +18,7 @@ The [grammar.json](./src/grammar.json) file contains the grammar rules of the MA
 - Comments
 
 ## Example
-![Alt text](./images/example.png "MARTe2 configuration file highligthing example.")
+![MARTe2 configuration file highligthing example](./images/example.jpg)
 
 ## ToDo
 Add specific highlitghting rules for [MARTe2-components](https://github.com/aneto0/MARTe2-components).
